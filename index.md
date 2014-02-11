@@ -1,7 +1,7 @@
-start-jsk.github.io
-===================
-
-github.io page for start-jsk
+---
+layout: default
+title: start-jsk.github.io
+---
 
 openrtm\_aist\_core
 ---
