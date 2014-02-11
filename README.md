@@ -10,7 +10,7 @@ Please use jekyll.
 gem install jekyll
 jekyll server -w
 ```
-And access to http://localhost:4000 via your browser.
+And access to [http://localhost:4000](http://localhost:4000) via your browser.
 
 ### openrtm\_aist\_core
 [project page](http://github.com/start-jsk/openrtm_aist_core) [![Build Status](https://travis-ci.org/start-jsk/openrtm_aist_core.png)](https://travis-ci.org/start-jsk/openrtm_aist_core)
